@@ -13,7 +13,7 @@ namespace BreakoutGameLab001
             InitializeComponent();
 
             // TODO : 進行遊戲初始化
-            // InitializeGame();
+            InitializeGame();
         }
 
         private void InitializeGame()
